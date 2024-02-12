@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/qnorth" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
