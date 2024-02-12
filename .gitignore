@@ -1,0 +1,23 @@
+# Python
+*.pyc
+.venv
+venv
+__pycache__/
+
+# IDE
+.idea/*
+
+.backuputils.py
+
+# QGIS-Plugin-CI
+DataPlotly.*.zip
+DataPlotly/i18n/
+
+.coverage
+.noseids
+
+# Vscode
+.vscode/*
+
+# Test
+*.qgs~
